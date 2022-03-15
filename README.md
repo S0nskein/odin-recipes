@@ -3,5 +3,7 @@ This is a project to demonstrate setting up a boilerplate and setting up various
 
 Relevant files: 
 index.html
-flapjacks.html +img
-quiche.html
+Recipes--> flapjacks.html+img
+       --> quiche.html + img
+       --> Chicken-pie.html + img
+       
